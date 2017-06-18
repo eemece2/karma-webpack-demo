@@ -1,17 +1,6 @@
-//var assert = chai.assert;
-
-//var assert = require('chai').assert;
-//var expect = require('chai').expect;
-//import { assert } from 'chai';
-//import { expect } from 'chai';
 import { assert, expect } from 'chai';
 
-// Funciona con webpack (en browser) (karma: $ npm run test)
 import demo from '../src/demo';
-
-// Funciona con mocha (en node.js) ($ mocha test)
-// Tambien funciona con webpack en browser (karma)
-//var demo = require('../src/demo');
 
 describe('with babel', () => {
 
