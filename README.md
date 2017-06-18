@@ -13,6 +13,7 @@ webpack: ./webpack.config.js
 ## Source files
 
 ./src/app.js // entrypoint
+
 ./src/demo.js // demo module
 
 ## Build destination
